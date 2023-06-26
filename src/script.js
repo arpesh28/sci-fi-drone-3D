@@ -39,7 +39,7 @@ gui.add(global, "envMapIntensity", 0, 10, 0.001).onChange(updateAllMaterials);
 gui.add(scene, "backgroundBlurriness").min(0).max(1).step(0.001);
 gui.add(scene, "backgroundIntensity").min(0).max(10).step(0.001);
 
-const environmentMap = textureLoader.load("/environmentMaps/2/warm.jpg");
+const environmentMap = textureLoader.load("/environmentMaps/1/night.jpg");
 environmentMap.mapping = THREE.EquirectangularReflectionMapping;
 environmentMap.colorSpace = THREE.SRGBColorSpace;
 scene.background = environmentMap;
@@ -127,7 +127,7 @@ const camera = new THREE.PerspectiveCamera(
   0.1,
   100
 );
-camera.position.set(0, 5, -10);
+camera.position.set(0, 5, -8);
 scene.add(camera);
 
 // Controls
