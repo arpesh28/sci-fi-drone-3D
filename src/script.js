@@ -93,7 +93,7 @@ const ambientLight = new THREE.AmbientLight("#ffffff", 0.5);
 const sunLight = new THREE.DirectionalLight("#ffffff", 1);
 sunLight.position.set(0, 10, 10);
 // sunLight.rotation.x = Math.PI * 2;
-scene.add(sunLight);
+// scene.add(sunLight);
 
 /**
  * Sizes
