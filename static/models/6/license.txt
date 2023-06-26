@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sci-fi Portal
+* source:	https://sketchfab.com/3d-models/sci-fi-portal-58ef929ff09f402790b71c7fbcd29f0e
+* author:	Dayrell (https://sketchfab.com/Dayrell)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sci-fi Portal" (https://sketchfab.com/3d-models/sci-fi-portal-58ef929ff09f402790b71c7fbcd29f0e) by Dayrell (https://sketchfab.com/Dayrell) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

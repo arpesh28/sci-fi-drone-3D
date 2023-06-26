@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sci-Fi Elevator with Shield
+* source:	https://sketchfab.com/3d-models/sci-fi-elevator-with-shield-6af75d254a6847c7a922dc9b5c6b4c5c
+* author:	s7ntech (https://sketchfab.com/s7ntech)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sci-Fi Elevator with Shield" (https://sketchfab.com/3d-models/sci-fi-elevator-with-shield-6af75d254a6847c7a922dc9b5c6b4c5c) by s7ntech (https://sketchfab.com/s7ntech) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
